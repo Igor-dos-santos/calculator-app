@@ -3,6 +3,11 @@ Calculator
 <img src="Logotype primary.png" width="60%" height="60%" />
 
 
+The app looks like an Iphone Calculator
+
+<img src="appView.png" width="60%" height="60%" />
+
+
 Check out my GitHub repository for this project.
 ---
 
